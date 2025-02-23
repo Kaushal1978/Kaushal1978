@@ -5,6 +5,7 @@
 - 📫 How to reach me through mail
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- kaushal
 
 <!---
 Kaushal1978/Kaushal1978 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
